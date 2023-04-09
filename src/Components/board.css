@@ -1,0 +1,14 @@
+table{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+td{
+    width: 160px;
+    height: 160px;
+    border: 3px solid white;
+    color: yellow;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
